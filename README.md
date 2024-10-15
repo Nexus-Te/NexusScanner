@@ -84,11 +84,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 **Contact**  
 - **Author**: Nexus Technologies 
-- **Email**: [your-email@example.com](mailto:scanner@nexus-te.com)  
+- [**Email us!**](mailto:scanner@nexus-te.com)  
 
 --
 
 ## 🎉 **Enjoy Scanning!**  
-![Footer Banner](https://via.placeholder.com/1200x200?text=Happy+Scanning+%7C+Modbus+Made+Simple)  
-
 ---
