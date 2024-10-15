@@ -1,10 +1,6 @@
 # ⚡ **Nexus Scanner** ⚡  
 > A sleek interface to scan and interact with Modbus devices over serial connections.
 
-![Modbus Banner](https://via.placeholder.com/1200x300?text=Modbus+RTU+Scanner+%7C+Cross-platform+Modbus+Client)  
-
----
-
 ## 🚀 **Overview**  
 The **Nexus Scanner** is a cross-platform tool for **Windows** and **Linux** that allows users to scan, read, and write to Modbus devices connected over **serial ports**.  
 With a clean web-based user interface, this tool makes it easy to configure your Modbus settings, view real-time register data, and interact with your devices seamlessly.
