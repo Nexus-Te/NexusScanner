@@ -22,8 +22,7 @@ With a clean web-based user interface, this tool makes it easy to configure your
 ---
 
 ## 🖥️ **User Interface**  
-
-![UI Preview](https://via.placeholder.com/800x400?text=UI+Preview+Placeholder)  
+![UI Preview](https://nexuspubres.s3.amazonaws.com/scanner/main.png)  
 
 **Core UX Elements:**  
 1. **COM Port Selection**: Auto-detects all available serial ports.  
@@ -78,7 +77,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📷 **Screenshots**  
 ### UI Example  
-![Screenshot Example](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
+![Screenshot Example 1](https://nexuspubres.s3.amazonaws.com/scanner/p1.png) 
+![Screenshot Example 2](https://nexuspubres.s3.amazonaws.com/scanner/p2.png)  
 
 ---
 
