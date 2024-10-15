@@ -1,4 +1,4 @@
-# ⚡ **Nexus Scanner** ⚡  
+#  **Nexus Scanner** 
 > A sleek interface to scan and interact with Modbus devices over serial connections.
 
 ## 🚀 **Overview**  
